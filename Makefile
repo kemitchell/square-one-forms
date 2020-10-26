@@ -5,7 +5,7 @@ lint=$(npmbin)/commonform-lint
 critique=$(npmbin)/commonform-critique
 json=$(npmbin)/json
 tools=$(cfcm) $(cfdocx) $(lint) $(critique) $(json)
-basenames=offer-letter confidentiality-ip-terms employment-terms contractor-terms
+basenames=offer-letter confidentiality-ip-terms employment-terms contractor-terms statement-of-work
 forms=$(addprefix build/,$(addsuffix .json,$(filter-out offer-letter, $(basenames))))
 
 all: docx pdf
