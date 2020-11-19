@@ -53,7 +53,7 @@ You agree to take reasonable measures to secure computer files, documents, e-mai
 
 ## Preserve Proprietary Notices
 
-You agree not to remove any proprietary notices attached to materials containing _Confidential Information_.
+You agree not to remove any copyright notices, confidential markings, or other proprietary notices from materials containing _Confidential Information_.
 
 ## Legally Required Disclosure
 
