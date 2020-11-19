@@ -23,7 +23,7 @@ With the exceptions listed in [Not Confidential Information](#not-confidential-i
 
 - any information the company shared with you before you started work with the company, as a head start bringing you up to speed for work
 
-- other information derived from these kinds of information
+- information that builds on _Confidential Information_
 
 ## Not Confidential Information
 
