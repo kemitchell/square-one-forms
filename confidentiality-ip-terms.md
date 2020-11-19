@@ -93,7 +93,7 @@ The company does not grant you any license for _Intellectual Property Rights_ in
 
 ## No Warranty
 
-The company does not make any warranty that _Confidential Information_ will be complete or accurate.
+The company does not make any promise that _Confidential Information_ will be complete or accurate.
 
 ## Defend Trade Secrets Act Notice
 
