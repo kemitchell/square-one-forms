@@ -81,11 +81,11 @@ When your work with the company ends, or when the company asks you to in writing
 
 ## After Termination
 
-These obligations under [Confidentiality](#confidentiality-obligations) continue after your work with the company ends:
+After your work with the company ends:
 
-- your obligations for _Confidential Information_ that you knew or reasonably should have known constituted a trade secret continue as long as the _Confidential Information_ remains a trade secret
+- Your obligations for _Confidential Information_ that you knew or reasonably should have known constituted a trade secret continue as long as the _Confidential Information_ remains a trade secret.
 
-- your obligations for other _Confidential Information_ survive for five calendar years from the date your work with the company ended
+- Your obligations for other _Confidential Information_ survive for five calendar years from the date your work with the company ended.
 
 ## No License
 
