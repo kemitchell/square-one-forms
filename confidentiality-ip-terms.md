@@ -61,7 +61,7 @@ These rules apply when the law requires you to disclose _Confidential Informatio
 
 ### Give Notice of Required Disclosure
 
-If the law allows, you agree to promptly notify the company of the nature of the requirement and the _Confidential Information_ affected.  If practical, you agree to give notice quickly enough to give the company a practical chance to start a proceeding to protect the confidentiality of the _Confidential Information_.  On company request, you agree to cooperate with the company in the proceeding by providing reasonable assistance.
+If the law allows, you agree to promptly notify the company of the nature of the requirement and the _Confidential Information_ affected.  If practical, you agree to give notice quickly enough to give the company a practical chance to start a proceeding to protect the confidentiality of the _Confidential Information_.
 
 ### Cooperate and Assist
 
