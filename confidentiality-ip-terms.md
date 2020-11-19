@@ -75,9 +75,9 @@ You agree to tell the company in writing whenever you become aware, suspect, or 
 
 When your work with the company ends, or when the company asks you to in writing, you agree to promptly:
 
-- return all materials containing _Confidential Information_ that the company provided with a request to return
+- return materials containing _Confidential Information_ that the company provided with a request to return
 
-- destroy all parts of other materials that contain _Confidential Information_
+- destroy other materials containing _Confidential Information_
 
 ## After Termination
 
