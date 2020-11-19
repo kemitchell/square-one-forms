@@ -41,7 +41,7 @@ Information you develop or discover on your own, unrelated to your work for the 
 
 ## Nondisclosure
 
-Except as required by law, you agree not to disclose _Confidential Information_ to anyone.
+Except as required by law, you agree not to disclose any _Confidential Information_ to anyone.
 
 ## Limited Use
 
