@@ -29,15 +29,15 @@ With the exceptions listed in [Not Confidential Information](#not-confidential-i
 
 ### Public Information
 
-Information that is now public is not _Confidential Information_.  _Confidential Information_ that becomes public, other than as a result of breach of this agreement, ceases to be _Confidential Information_.
+Information that is already public is not _Confidential Information_.  _Confidential Information_ that becomes public stops being _Confidential Information_, unless you made it public in breach of these terms.
 
-### Information Acquired Otherwise
+### Information from Other Sources
 
-Information that you receive other than from the company is not _Confidential Information_, unless the disclosure breached a confidentiality obligation to the company.
+Information that you receive other than from the company or related to your work for the company is not _Confidential Information_, unless the source breached a confidentiality obligation to the company by providing the information.
 
 ### Independently Developed Information
 
-Information you develop or discover independently is not, or ceases to be, _Confidential Information_.  You will bear the burden of proving independent development or discovery using documentary evidence from the time you developed or discovered the information.
+Information you develop or discover on your own, unrelated to your work for the company, is not, or stops being, _Confidential Information_.  You will bear the burden of proving that development or discovery was unrelated to your work using written evidence from the time you claim to have developed or discovered the information.
 
 ## Nondisclosure
 
