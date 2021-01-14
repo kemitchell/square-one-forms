@@ -151,7 +151,7 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ### State Law Exclusions
 
-Some states have laws that prevent terms like these from assigning intellectual property rights created outside work.  If you live in one of those states, _New Intellectual Property_ does not include any rights that can't be legally assigned under that state's law.  For example, see:
+If you live in a state with laws that limit the intellectual property rights that terms like these can assign to the company, _New Intellectual Property_ does not include any rights that can't legally be assigned under that law. Examples of those state laws include:
 
 - California Labor Code section 2870
 - Delaware Code Annotated title 19 section 805
