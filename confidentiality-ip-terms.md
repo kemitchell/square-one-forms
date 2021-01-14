@@ -162,6 +162,7 @@ If you live in a state with laws that limit the intellectual property rights tha
 - North Carolina General Statutes chapter 66 article 10 sections 66-57.1 and 66-57.2
 - Utah Code Annotated sections title 34 chapter 39
 - Washington Revised Code sections 49.44.140 and 49.44.150
+- any similar law in your state
 
 ## Disclosure
 
