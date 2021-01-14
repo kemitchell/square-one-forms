@@ -13,13 +13,13 @@ These terms set out the rules about confidential information and intellectual pr
 
 ## Purpose of Confidentiality
 
-The purpose of [Confidentiality](#confidentiality) is to protect the company's confidential information, as well as the confidential information entrusted to the company by others.
+The purpose of [Confidentiality](#confidentiality) is to protect the company's confidential information, as well as confidential information entrusted to the company by others.
 
 ## Confidential Information
 
 With the exceptions listed in [Not Confidential Information](#not-confidential-information), **Confidential Information** means:
 
-- all information that the company shares with you during your work for the company
+- all information the company shares with you during your work for the company
 
 - any information the company shared with you before you started work with the company, as a head start bringing you up to speed for work
 
