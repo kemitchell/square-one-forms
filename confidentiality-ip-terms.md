@@ -133,7 +133,7 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 - If you can't transfer your rights, or use the rights of others, you license them to the company in [License](#license).
 
-- If you can't transfer special moral rights, such as in artwork, you agree not to enforce those rights in [Moral Rights](#moral-rights).
+- If you can't transfer special "moral rights", such as in artwork, you agree not to enforce those rights in [Moral Rights](#moral-rights).
 
 ## Covered Intellectual Property
 
