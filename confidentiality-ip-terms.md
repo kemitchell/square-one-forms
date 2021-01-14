@@ -119,7 +119,7 @@ Per the Defend Trade Secrets Act of 2016:
 
 ## Intellectual Property Rights
 
-**Intellectual Property Rights** are legal rights in ideas, inventions, information, and other things that aren't physical property.  Copyrights, patents, trade secrets, and trademarks are the most common.  When these terms say _Intellectual Property Rights_, they also mean legal rights in applications and registrations to protect _Intellectual Property Rights_.
+**Intellectual Property Rights** are legal rights in ideas, inventions, information, and other things that aren't physical property.  Copyrights, patents, trade secrets, and trademarks are the most common.  When these terms say _Intellectual Property Rights_, they also mean legal rights in applications to protect _Intellectual Property Rights_, like copyright, trademark, and patent applications.
 
 ## Purpose of Intellectual Property Terms
 
