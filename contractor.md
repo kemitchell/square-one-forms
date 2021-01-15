@@ -1,6 +1,6 @@
 ---
 title: Square One Standard Contractor Terms
-edition: Working Draft
+edition: First Edition
 signatures: []
 blanks:
   payment deadline: fourteen calendar days
