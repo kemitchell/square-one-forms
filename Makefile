@@ -14,12 +14,17 @@ all: docx pdf html
 
 docx: $(foreach basename,$(all_basenames:=.docx),$(addprefix build/,$(basename)))
 
+rtf: $(foreach basename,$(all_basenames:=.rtf),$(addprefix build/,$(basename)))
+
 pdf: $(foreach basename,$(all_basenames:=.pdf),$(addprefix build/,$(basename)))
 
 html: $(foreach basename,$(common_form_basenames:=.html),$(addprefix build/,$(basename)))
 
 build/%.docx: %.docx | build
 	cp $< $@
+
+build/%.rtf: build/%.docx | build
+	unoconv -f rtf $<
 
 build/%.docx: build/%.json build/%.title build/%.edition build/%.directions build/%.blanks build/%.signatures styles.json | $(cfdocx) build
 	$(cfdocx) --title "$(shell cat build/$*.title)" --edition "$(shell cat build/$*.edition)" --number outline --left-align-title --smartify --indent-margins --styles styles.json --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures $< > $@
