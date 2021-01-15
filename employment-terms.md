@@ -1,6 +1,6 @@
 ---
 title: Square One Standard Employment Terms
-edition: Working Draft
+edition: First Draft of First Edition
 signatures: []
 blanks: {}
 ---
