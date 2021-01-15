@@ -1,6 +1,7 @@
 npmbin=node_modules/.bin
 cfcm=$(npmbin)/commonform-commonmark
 cfdocx=$(npmbin)/commonform-docx
+cfhtml=$(npmbin)/commonform-html
 lint=$(npmbin)/commonform-lint
 critique=$(npmbin)/commonform-critique
 json=$(npmbin)/json
@@ -8,17 +9,22 @@ tools=$(cfcm) $(cfdocx) $(lint) $(critique) $(json)
 basenames=offer-letter confidentiality-ip-terms employment-terms contractor-terms statement-of-work
 forms=$(addprefix build/,$(addsuffix .json,$(filter-out offer-letter, $(basenames))))
 
-all: docx pdf
+all: docx pdf html
 
 docx: $(foreach basename,$(basenames:=.docx),$(addprefix build/,$(basename)))
 
 pdf: $(foreach basename,$(basenames:=.pdf),$(addprefix build/,$(basename)))
+
+html: $(foreach basename,$(basenames:=.html),$(addprefix build/,$(basename)))
 
 build/%.docx: %.docx | build
 	cp $< $@
 
 build/%.docx: build/%.json build/%.title build/%.edition build/%.directions build/%.blanks build/%.signatures styles.json | $(cfdocx) build
 	$(cfdocx) --title "$(shell cat build/$*.title)" --edition "$(shell cat build/$*.edition)" --number outline --left-align-title --smartify --indent-margins --styles styles.json --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures $< > $@
+
+build/%.html: build/%.json build/%.title build/%.edition build/%.directions build/%.blanks build/%.signatures styles.json | $(cfdocx) build
+	$(cfhtml) --html --smartify --lists --ids --title "$(shell cat build/$*.title)" --edition "$(shell cat build/$*.edition)" --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures $< > $@
 
 build/%.title: build/%.parsed | $(json) build
 	$(json) frontMatter.title < $< > $@
