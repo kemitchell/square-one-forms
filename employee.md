@@ -1,5 +1,5 @@
 ---
-title: Square One Standard Employment Terms
+title: Square One Standard Employee Terms
 edition: Working Draft
 signatures: []
 blanks: {}
