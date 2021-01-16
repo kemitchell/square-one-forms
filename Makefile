@@ -30,7 +30,7 @@ build/%.docx: build/%.json build/%.title build/%.edition build/%.directions buil
 	$(cfdocx) --title "$(shell cat build/$*.title)" --edition "$(shell cat build/$*.edition)" --number outline --left-align-title --smartify --indent-margins --styles styles.json --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures $< > $@
 
 build/%.html: build/%.json build/%.title build/%.edition build/%.directions build/%.blanks build/%.signatures styles.json | $(cfdocx) build
-	$(cfhtml) --html --smartify --lists --ids --title "$(shell cat build/$*.title)" --edition "$(shell cat build/$*.edition)" --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures < $< > $@
+	$(cfhtml) --html5 --smartify --lists --ids --title "$(shell cat build/$*.title)" --edition "$(shell cat build/$*.edition)" --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures < $< > $@
 
 build/%.title: build/%.parsed | $(json) build
 	$(json) frontMatter.title < $< > $@
