@@ -6,11 +6,12 @@ lint=$(npmbin)/commonform-lint
 critique=$(npmbin)/commonform-critique
 json=$(npmbin)/json
 tools=$(cfcm) $(cfdocx) $(lint) $(critique) $(json)
-common_form_basenames=confidentiality-ip employee contractor statement-of-work
-all_basenames=$(common_form_basenames) offer-letter
-forms=$(addprefix build/,$(addsuffix .json,$(filter-out offer-letter, $(all_basenames))))
+common_form_basenames=confidentiality-ip employee contractor
+docx_basenames=offer-letter statement-of-work
+all_basenames=$(common_form_basenames) $(docx_basenames)
+forms=$(addprefix build/,$(addsuffix .json,$(common_form_basenames)))
 
-all: docx pdf html
+all: docx pdf html rtf
 
 docx: $(foreach basename,$(all_basenames:=.docx),$(addprefix build/,$(basename)))
 
