@@ -99,7 +99,7 @@ The law of the state of the address the company provides with its signature on t
 
 ## Disputes
 
-You and the company to make any legal claim related to this agreement only in the federal or state courts nearest the address the company provides with its signature to the statement of work, and to pay the other's attorney fees and costs if they lose in court.
+You and the company agree to make any legal claim related to this agreement only in the federal or state courts nearest the address the company provides with its signature to the statement of work, and to pay the other's attorney fees and costs if they lose in court.
 
 ## Whole Agreement
 
