@@ -1,6 +1,6 @@
 ---
 title: Square One Standard Contractor Terms
-edition: First Edition, First Correction
+edition: First Edition, Second Correction
 signatures: []
 blanks:
   payment deadline: fourteen calendar days
@@ -103,7 +103,7 @@ You and the company agree to make any legal claim related to this agreement only
 
 ## Whole Agreement
 
-These terms, the statement of work, and the terms included in [Confidentiality and Intellectual Property](#confidentiality-and-intellectual-property) list all the terms that you and the company intend to apply to your work for the company.
+These terms, the statement of work, and the terms included in [Confidentiality and Intellectual Property](#confidentiality-and-intellectual-property) list all the terms that you and the company intend to apply to your work for the company under the statement of work.
 
 ## Assignment
 
