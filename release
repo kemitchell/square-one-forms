@@ -8,6 +8,9 @@ if [ -z "$tag" ] || [ -z "$spelled" ]; then
   exit 1
 fi
 
+git add offer-letter.docx statement-of-work.docx
+git stash
+
 # Check current branch.
 branch=$(git branch --show-current)
 if [ "$branch" != "main" ]; then
@@ -17,6 +20,7 @@ fi
 
 # Create tagged commit.
 git checkout -b tmp
+git stash apply
 sed -i "s/^edition: Working Draft$/edition: $spelled/" ./*.md
 git add ./*.md
 git commit -m "$spelled"
