@@ -1,0 +1,11 @@
+#!/bin/sh
+# Parse arguments.
+tag="$1"
+spelled="$2"
+if [ -z "$tag" ] || [ -z "$spelled" ]; then
+  echo 'Example Usage: "1e" "First Edition"'
+  exit 1
+fi
+
+sed -i "s/^edition: Working Draft$/edition: $spelled/" ./*.md
+echo "Remember to edit offer-letter.docx and statement-of-work.docx!"
