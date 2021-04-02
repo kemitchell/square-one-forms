@@ -3,6 +3,7 @@
 tag="$1"
 spelled="$2"
 if [ -z "$tag" ] || [ -z "$spelled" ]; then
+  echo 'Remember to update offer letter and SOW Word files!'
   echo 'Example Usage: "1e" "First Edition"'
   exit 1
 fi
