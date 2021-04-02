@@ -9,6 +9,13 @@ if [ -z "$code" ] || [ -z "$spelled" ]; then
   exit 1
 fi
 
+# Check current branch.
+branch=$(git branch --show-current)
+if [ "$branch" != "main" ]; then
+  echo 'Current branch is not "main"!'
+  exit 1
+fi
+
 # Replace in Markdown files.
 sed -i "s/^edition: Working Draft$/edition: $spelled/" ./*.md
 sed -i "s/{{Edition Spelled}}/$spelled/g" ./*.md
@@ -28,3 +35,15 @@ for docx in ./*.docx; do
   )
   rm -rf "$tmp"
 done
+
+# Create tagged commit.
+git checkout -b tmp
+git add -u
+git commit -m "$spelled"
+git tag "$code"
+
+# Push.
+git push origin "$code"
+
+# Build.
+make
