@@ -1,6 +1,6 @@
 ---
 title: Square One Standard Employee Terms
-edition: Working Draft
+edition: First Edition, Second Correction
 signatures: []
 blanks: {}
 ---
@@ -23,7 +23,7 @@ If your offer is for full-time employment, you agree to devote your whole normal
 
 # Confidentiality and Intellectual Property
 
-In order to become an employee, you must first agree to terms with the company about confidentiality and intellectual property.  You agree to the Square One Standard Confidentiality and Intellectual Property Terms, {{Edition Spelled}} (https://squareoneforms.com/confidentiality-ip/{{Edition Code}}).
+In order to become an employee, you must first agree to terms with the company about confidentiality and intellectual property.  You agree to the Square One Standard Confidentiality and Intellectual Property Terms, First Edition, Second Correction (https://squareoneforms.com/confidentiality-ip/1e2c).
 
 # Policies
 

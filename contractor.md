@@ -1,6 +1,6 @@
 ---
 title: Square One Standard Contractor Terms
-edition: Working Draft
+edition: First Edition, Second Correction
 signatures: []
 blanks:
   payment deadline: fourteen calendar days
@@ -81,7 +81,7 @@ You will notify the company by e-mail of any other company that you anticipate w
 
 # Confidentiality and Intellectual Property
 
-You and the company agree to the Square One Standard Confidentiality and Intellectual Property Terms, {{Edition Spelled}} (https://squareoneforms.com/confidentiality-ip/{{Edition Code}}).
+You and the company agree to the Square One Standard Confidentiality and Intellectual Property Terms, First Edition, Second Correction (https://squareoneforms.com/confidentiality-ip/1e2c).
 
 # Disclaimer
 
