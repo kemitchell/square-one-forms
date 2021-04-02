@@ -1,11 +1,30 @@
 #!/bin/sh
+set -e
+
 # Parse arguments.
-tag="$1"
+code="$1"
 spelled="$2"
-if [ -z "$tag" ] || [ -z "$spelled" ]; then
+if [ -z "$code" ] || [ -z "$spelled" ]; then
   echo 'Example Usage: "1e" "First Edition"'
   exit 1
 fi
 
+# Replace in Markdown files.
 sed -i "s/^edition: Working Draft$/edition: $spelled/" ./*.md
-echo "Remember to edit offer-letter.docx and statement-of-work.docx!"
+sed -i "s/{{Edition Spelled}}/$spelled/g" ./*.md
+sed -i "s/{{Edition Code}}/$code/g" ./*.md
+
+# Replace in Word files.
+for docx in ./*.docx; do
+  real=$(realpath "$docx")
+  tmp=$(mktemp -d)
+  unzip "$docx" -d "$tmp"
+  (
+    cd "$tmp/word"
+    sed -i "s/{{Edition Spelled}}/$spelled/g" document.xml
+    sed -i "s/{{Edition Code}}/$code/g" document.xml
+    cd ..
+    zip -r "$real" ./*
+  )
+  rm -rf "$tmp"
+done

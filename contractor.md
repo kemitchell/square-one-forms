@@ -81,7 +81,7 @@ You will notify the company by e-mail of any other company that you anticipate w
 
 # Confidentiality and Intellectual Property
 
-You and the company agree to the Square One Standard Confidentiality and Intellectual Property Terms, First Edition (https://squareoneforms.com/confidentiality-ip/1e).
+You and the company agree to the Square One Standard Confidentiality and Intellectual Property Terms, {{Edition Spelled}} (https://squareoneforms.com/confidentiality-ip/{{Edition Code}}).
 
 # Disclaimer
 
