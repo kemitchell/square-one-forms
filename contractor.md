@@ -1,6 +1,6 @@
 ---
 title: Square One Standard Contractor Terms
-edition: First Edition, Second Correction
+edition: First Edition, First Update
 signatures: []
 blanks:
   payment deadline: fourteen calendar days
@@ -81,7 +81,7 @@ You will notify the company by e-mail of any other company that you anticipate w
 
 # Confidentiality and Intellectual Property
 
-You and the company agree to the Square One Standard Confidentiality and Intellectual Property Terms, First Edition (https://squareoneforms.com/confidentiality-ip/1e).
+You and the company agree to the Square One Standard Confidentiality and Intellectual Property Terms, First Edition, First Update (https://squareoneforms.com/confidentiality-ip/1e1u).
 
 # Disclaimer
 
@@ -99,7 +99,7 @@ The law of the state of the address the company provides with its signature on t
 
 ## Disputes
 
-You and the company agree to make any legal claim related to this agreement only in the federal or state courts nearest the address the company provides with its signature to the statement of work, and to pay the other's attorney fees and costs if they lose in court.
+You and the company agree to make any legal claim related to this agreement only in the federal or state courts nearest the address the company provides with its signature to the statement of work, and to pay the other's attorney fees and costs if they win in court.
 
 ## Whole Agreement
 

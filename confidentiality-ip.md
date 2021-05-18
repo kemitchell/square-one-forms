@@ -1,6 +1,6 @@
 ---
 title: Square One Standard Confidentiality and Intellectual Property Terms
-edition: First Edition
+edition: First Edition, First Update
 signatures: []
 blanks: {}
 ---
@@ -123,7 +123,7 @@ Per the Defend Trade Secrets Act of 2016:
 
 ## Purpose of Intellectual Property Terms
 
-The purpose of [Intellectual Property](#intellectual-property) is to make sure the company gets ownership of all _Intellectual Property Rights_ in your work for the company, or least very broad permission to use it.  Since the legal rules about intellectual property are a bit complicated, these terms are, too.  But at a high level:
+The purpose of [Intellectual Property](#intellectual-property) is to make sure the company gets ownership of all _Intellectual Property Rights_ in your work for the company, or, failing that, very broad licenses for it.  Since the legal rules about intellectual property are a bit complicated, these terms are, too.  But at a high level:
 
 - You promise to let the company know about the work you do in [Disclosure](#disclosure).
 
@@ -151,7 +151,7 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ### State Law Exclusions
 
-If you live in a state with laws that limit the intellectual property rights that terms like these can assign to the company, _New Intellectual Property_ does not include any rights that can't legally be assigned under that law. Examples of those state laws include:
+If you work in a state with laws that limit the intellectual property rights that terms like these can assign to the company, _New Intellectual Property_ does not include any rights that can't legally be assigned under that law. Examples of those state laws include:
 
 - California Labor Code section 2870
 - Delaware Code Annotated title 19 section 805
@@ -162,7 +162,7 @@ If you live in a state with laws that limit the intellectual property rights tha
 - North Carolina General Statutes chapter 66 article 10 sections 66-57.1 and 66-57.2
 - Utah Code Annotated sections title 34 chapter 39
 - Washington Revised Code sections 49.44.140 and 49.44.150
-- any similar law in your state
+- any similar law where you work
 
 ## Disclosure
 
@@ -176,7 +176,7 @@ Subject to [State Employment Law Exception](#state-employment-law-exception), as
 
 ### State Employment Law Exception
 
-Some states have laws that make workers who agree to make "work made for hire" into employees, even if they would otherwise be contractors.  For example, section 3351.5(c) of the California Labor Code and section 686 of the California Unemployment Insurance Code.  If you live in one of those states and work for the company as a contractor, [Express Agreement to Make "Work Made for Hire"](#express-agreement-to-make-work-made-for-hire) does not apply if it would make you an employee under your state's law.
+Some states have laws that make workers who agree to make "work made for hire" into employees, even if they would otherwise be contractors.  For example, section 3351.5(c) of the California Labor Code and section 686 of the California Unemployment Insurance Code.  If you work in one of those states and work for the company as a contractor, [Express Agreement to Make "Work Made for Hire"](#express-agreement-to-make-work-made-for-hire) does not apply if it would make you an employee under that state's law.
 
 ## Assignment
 
@@ -186,17 +186,17 @@ You assign all your rights in _New Intellectual Property_ that aren't covered by
 
 ### Further Steps
 
-You agree to do everything necessary to paper assignments in [Assignment](#assignment), make them legally effective, and help the company enforce the rights assigned.  We will notify you by e-mail of any further steps required, provide all necessary documentation, and reimburse you for reasonable out-of-pocket expenses.
+You agree to do everything necessary to paper assignments in [Assignment](#assignment), make them legally effective, and help the company enforce the rights assigned.  The company will notify you by e-mail of any further steps required, provide all necessary documentation, and reimburse you for reasonable out-of-pocket expenses.
 
 ### Acting on Your Behalf
 
 #### What the Company Can Do
 
-We can take action under [Further Steps](#further-steps) on your behalf if we can't find you, if you aren't capable of doing so, or if you refuse to do so.
+The company can take action under [Further Steps](#further-steps) on your behalf if the company can't find you, if you aren't capable of doing so, or if you refuse to do so.
 
 #### Legal Intent
 
-In legal terms of art, we intend [What the Company Can Do](#what-the-company-can-do) to appoint us as your "attorney in fact with full right of substitution" t act on your behalf under [Further Steps](#further-steps).
+In legal terms of art, [What the Company Can Do](#what-the-company-can-do) appoints the company as your "attorney in fact with full right of substitution" to act on your behalf under [Further Steps](#further-steps).
 
 ## License
 
@@ -224,7 +224,7 @@ If the company employs you, the law of the state where you work will govern all 
 
 ## Disputes
 
-If the company employs you, we agree to make any legal claims related to these terms only in the federal or state courts nearest the address that the company provides with its signature.  If the company hires you as a contractor, we agree to follow the dispute-resolution terms of your contract for legal claims related to these terms.
+If the company employs you, the company agrees to make any legal claims related to these terms only in the federal or state courts nearest the address that the company provides with its signature.  If the company hires you as a contractor, the company agrees to follow the dispute-resolution terms of your contract for legal claims related to these terms.
 
 ## Whole Agreement
 
