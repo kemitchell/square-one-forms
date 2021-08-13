@@ -165,7 +165,7 @@ If you work in a state with laws that limit the _Intellectual Property Rights_ t
 
 ## Disclosure
 
-You agree to keep records of the work create for the company, and to promptly disclose _New Intellectual Property_ covered by these terms to the company in writing, as it is created.  If you're not sure whether you've created _New Intellectual Property_, you agree to disclose your work to the company anyway, so the company can decide.
+You agree to keep records of the work you create for the company, and to promptly disclose _New Intellectual Property_ covered by these terms to the company in writing, as it is created.  If you're not sure whether you've created _New Intellectual Property_, you agree to disclose your work to the company anyway, so the company can decide.
 
 ## Work Made for Hire
 
