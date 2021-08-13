@@ -127,7 +127,7 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 - You promise to let the company know about the work you do in [Disclosure](#disclosure).
 
-- If the law allows the company to own your work to begin with, [Work Made for Hire](#work-made-for-hire) makes it so.
+- If the law allows the company to own copyright in your work from the start, [Work Made for Hire](#work-made-for-hire) makes it so.
 
 - If rights in your work unavoidably belong to you to start, you transfer them to the company in [Assignment](#assignment).
 
