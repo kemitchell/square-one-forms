@@ -139,7 +139,7 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ### General Definition
 
-**New Intellectual Property** means all intellectual property in these kinds of work, created by you alone or with others:
+**New Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
 
   - work you did before starting work with the company, as a head start on work for the company
 
@@ -151,7 +151,7 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ### State Law Exclusions
 
-If you work in a state with laws that limit the intellectual property rights that terms like these can assign to the company, _New Intellectual Property_ does not include any rights that can't legally be assigned under that law. Examples of those state laws include:
+If you work in a state with laws that limit the _Intellectual Property Rights_ that terms like these can assign to the company, _New Intellectual Property_ does not include any rights that can't legally be assigned under that law. Examples of those state laws include:
 
 - California Labor Code section 2870
 - Delaware Code Annotated title 19 section 805
