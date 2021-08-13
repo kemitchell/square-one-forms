@@ -199,7 +199,7 @@ In legal terms of art, [What the Company Can Do](#what-the-company-can-do) appoi
 
 ## License
 
-You give the company a license for all rights in _New Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) or [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you may not take it back.
+You give the company a license for all rights in _New Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) or [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.
 
 ## Moral Rights
 
