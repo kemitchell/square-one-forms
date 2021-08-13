@@ -25,7 +25,7 @@ build/%.docx: %.docx | build
 	cp $< $@
 
 build/%.rtf: build/%.docx | build
-	unoconv -f rtf $<
+	soffice --headless --convert-to rtf --outdir build $<
 
 build/%.docx: build/%.json build/%.title build/%.edition build/%.directions build/%.blanks build/%.signatures styles.json | $(cfdocx) build
 	$(cfdocx) --title "$(shell cat build/$*.title)" --edition "$(shell cat build/$*.edition)" --number outline --left-align-title --smartify --indent-margins --styles styles.json --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures $< > $@
@@ -54,8 +54,8 @@ build/%.directions: build/%.parsed | $(json) build
 build/%.parsed: %.md | $(cfcm) build
 	$(cfcm) parse $<  > $@
 
-%.pdf: %.docx
-	unoconv $<
+build/%.pdf: build/%.docx
+	soffice --headless --convert-to pdf --outdir build $<
 
 build:
 	mkdir -p $@
