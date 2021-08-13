@@ -23,7 +23,7 @@ With the exceptions listed in [Not Confidential Information](#not-confidential-i
 
 - any information the company shared with you before you started work with the company, as a head start bringing you up to speed for work
 
-- information that builds on _Confidential Information_
+- any information building on these kinds of information
 
 ## Not Confidential Information
 
@@ -147,7 +147,7 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
   - work you create using equipment, supplies, facilities, or confidential information from the company
 
-  - any work building on any of this kind of work
+  - any work building on these kinds of work
 
 ### State Law Exclusions
 
