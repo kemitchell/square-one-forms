@@ -191,7 +191,7 @@ You agree to do everything necessary to paper assignments in [Assignment](#assig
 
 #### What the Company Can Do
 
-The company can take action under [Further Steps](#further-steps) on your behalf if the company can't find you, if you aren't capable of doing so, or if you refuse to do so.
+The company can take action under [Further Steps](#further-steps) on your behalf if you aren't capable of doing so, if you refuse to do so, of if the company can't find you or get in touch with you.
 
 #### Legal Intent
 
