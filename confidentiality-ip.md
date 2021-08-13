@@ -162,7 +162,6 @@ If you work in a state with laws that limit the _Intellectual Property Rights_ t
 - North Carolina General Statutes chapter 66 article 10 sections 66-57.1 and 66-57.2
 - Utah Code title 34 chapter 39
 - Washington Revised Code sections 49.44.140 and 49.44.150
-- any similar law where you work
 
 ## Disclosure
 
