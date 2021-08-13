@@ -207,13 +207,21 @@ If the law gives you "moral rights" in work for the company that you can't assig
 
 # Responsibilities
 
-You guarantee that:
+## Conflicting Agreements
 
-- agreeing to these terms and following them won't cause you to break any other agreement with anyone else
+You guarantee that agreeing to these terms and following them won't cause you to break any other agreement with anyone else
 
-- you will not use or build on _Intellectual Property Rights_ that you can't license to the company under [License](#license) in work for the company
+## Intellectual Property Infringement
 
-- you will not infringe the _Intellectual Property Rights_ of others in work for the company
+You guarantee you will not infringe the _Intellectual Property Rights_ of others in work for the company
+
+## Open Licensing
+
+If the company provides policies on acceptable terms for open source, open data, open content, material dedicated to the public domain, or similar kinds of freely available work, you agree to follow those policies.  You guarantee that any freely available work that you include in or build on in _New Intellectual Property_ will conform to those policies.
+
+## Rights to License
+
+Otherwise, you guarantee that you will not include or build on material covered by _Intellectual Property Rights_ that you can't license to the company under [License](#license) in work for the company.
 
 # General Contract Terms
 
