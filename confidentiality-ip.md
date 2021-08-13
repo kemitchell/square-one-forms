@@ -154,13 +154,13 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 If you work in a state with laws that limit the _Intellectual Property Rights_ that terms like these can assign to the company, _New Intellectual Property_ does not include any rights that can't legally be assigned under that law. Examples of those state laws include:
 
 - California Labor Code section 2870
-- Delaware Code Annotated title 19 section 805
+- Delaware Code title 19 section 805
 - Illinois Compiled Statutes section 1060/2
 - Kansas Labor and Industries Code section 44-130
 - Minnesota Labor, Industry Code section 181.78
 - New Jersey Statutes section 34:1B-265
 - North Carolina General Statutes chapter 66 article 10 sections 66-57.1 and 66-57.2
-- Utah Code Annotated sections title 34 chapter 39
+- Utah Code title 34 chapter 39
 - Washington Revised Code sections 49.44.140 and 49.44.150
 - any similar law where you work
 
