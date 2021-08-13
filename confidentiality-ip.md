@@ -47,7 +47,7 @@ Except as required by law, you agree not to disclose any _Confidential Informati
 
 You agree to use _Confidential Information_ only in your work for the company, to benefit the company.
 
-## Security Measures
+## Security
 
 You agree to take reasonable measures to secure computer files, documents, e-mails, and any other materials containing _Confidential Information_.  If the company provides written security requirements for some or all _Confidential Information_ you receive, you agree to either follow those requirements or to notify the company immediately that you will not.
 
