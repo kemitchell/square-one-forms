@@ -1,6 +1,6 @@
 ---
 title: Square One Standard Confidentiality and Intellectual Property Terms
-edition: First Edition, First Update
+edition: First Edition, Second Update
 signatures: []
 blanks: {}
 ---
