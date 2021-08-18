@@ -83,7 +83,7 @@ When your work with the company ends, or when the company asks you to in writing
 
 After your work with the company ends:
 
-- Your obligations for _Confidential Information_ that you know or should reasonably expect the company protects as a trade secret continues as long as the _Confidential Information_ remains a trade secret.
+- Your obligations for _Confidential Information_ that you know or should reasonably expect the company protects as a trade secret continue as long as the _Confidential Information_ remains a trade secret.
 
 - Your obligations for other _Confidential Information_ continue for five calendar years from the date your work with the company ended.
 
