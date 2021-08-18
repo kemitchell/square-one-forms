@@ -11,9 +11,17 @@ blanks:
 
 # Work
 
-You will do the work described in the statement of work incorporating these terms by reference. The company will pay the fees described in the statement of work, and reimburse expenses that an executive officer of the company approves in writing, specifically, in advance. You will bill the company for fees and expenses as described in the statement of work.
+You will do the work described in the statement of work incorporating these terms by reference.
+
+# Fees and Expenses
+
+The company will pay the fees described in the statement of work, and reimburse expenses that an executive officer of the company approves in writing, specifically, in advance.
 
 # Payment
+
+## Billing
+
+You will bill the company for fees and expenses as described in the statement of work.
 
 ## Deadline
 
@@ -51,7 +59,7 @@ When this agreement ends, you will stop work and bill the company for work alrea
 
 ## Continuing Provisions
 
-These sections continue to apply after this agreement ends: [Work](#work), [Payment](#payment), [Working Relationship](#working-relationship), and [Limit on Liability](#limit-on-liability).
+These sections continue to apply after this agreement ends: [Work](#work), [Fees and Expenses](#fees-and-expenses), [Payment](#payment), [Working Relationship](#working-relationship), and [Limit on Liability](#limit-on-liability).
 
 # Working Relationship
 
