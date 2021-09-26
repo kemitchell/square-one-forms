@@ -21,7 +21,7 @@ With the exceptions listed in [Not Confidential Information](#not-confidential-i
 
 - all information the company shares with you during your work for the company
 
-- any information the company shared with you before you started work with the company, as a head start bringing you up to speed for work
+- any information the company shared with you before you started work with the company
 
 - any information building on these kinds of information
 
