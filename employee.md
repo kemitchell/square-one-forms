@@ -69,4 +69,4 @@ You and the company will change the terms of your employment, if ever, only by w
 
 # All Terms
 
-These terms, the offer letter referencing them, and the required confidentiality and intellectual property agreement set out all the terms for your offer of employment by the company.  They replace any other terms about your employment you may have been discussed before, in conversation or in writing.
+These terms, the offer letter referencing them, and the required confidentiality and intellectual property agreement set out all the terms for your offer of employment by the company.  They replace any other terms about your employment you may have seen or discussed before, in writing or in conversation.
