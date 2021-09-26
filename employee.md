@@ -9,6 +9,10 @@ blanks: {}
 
 Your offer is for "at will" employment.  The company can let you go at any time, for any reason, without advance warning.  By the same token, you can leave the company at any time, for any reason, by notifying the company in writing.
 
+# Notice
+
+You and the company acknowledge that giving two weeks' notice before letting someone go or leaving a company is broadly considered common courtesy.  However, legal terms between companies and employees rarely if ever make that two week's notice a legal obligation, and these terms don't, either.
+
 # Eligibility
 
 You must give your hiring contact documents to prove that you have the right to work in the United States, such as ID and a social security card, a passport, or a green card, within three days of starting work.  This requirement applies to United States citizens and others alike.
