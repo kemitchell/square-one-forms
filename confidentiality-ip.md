@@ -87,10 +87,6 @@ After your work with the company ends:
 
 - Your obligations for other _Confidential Information_ continue for five calendar years from the date your work with the company ended.
 
-## No License
-
-The company does not grant you any license for _Intellectual Property Rights_ in _Confidential Information_.
-
 ## No Warranty
 
 The company does not make any promise that _Confidential Information_ will be complete or accurate.
