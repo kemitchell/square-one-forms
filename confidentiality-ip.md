@@ -87,10 +87,6 @@ After your work with the company ends:
 
 - Your obligations for other _Confidential Information_ continue for five calendar years from the date your work with the company ended.
 
-## No Warranty
-
-The company does not make any promise that _Confidential Information_ will be complete or accurate.
-
 ## Defend Trade Secrets Act Notice
 
 Per the Defend Trade Secrets Act of 2016:
