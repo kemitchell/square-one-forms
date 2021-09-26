@@ -15,7 +15,7 @@ You must give your hiring contact documents to prove that you have the right to 
 
 # Conflicts
 
-By accepting your offer, you guarantee that you aren't under any contract or other legal obligation that will keep you from doing your job.
+By accepting your offer, you guarantee that you aren't under any contract or other legal obligation that will significantly limit your ability to do your job.
 
 # Commitment
 
