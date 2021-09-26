@@ -231,11 +231,11 @@ These terms and any document incorporating them by reference list all the terms 
 
 ## No Assignment
 
-You may not assign our agreement without written permission from the company.  The company can assign our agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction.  Any attempt to assign rights under our agreement against these terms has no legal effect.
+You may not assign this agreement without written permission from the company.  The company can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction.  Any attempt to assign rights under this agreement against these terms has no legal effect.
 
 ## No Delegation
 
-Neither side may delegate any duty under our agreement.  Any attempt to delegate has no legal effect.
+Neither side may delegate any duty under this agreement.  Any attempt to delegate has no legal effect.
 
 ## Unenforceable Terms
 
