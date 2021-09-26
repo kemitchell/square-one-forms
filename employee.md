@@ -49,7 +49,7 @@ The pay and other compensation the company offers you may be subject to withhold
 
 # Equity
 
-If your offer letter includes equity compensation like stock, options, or appreciation rights, that compensation is subject to approval by the company's board of directors or other governing body.
+If your offer letter includes equity compensation like stock, options, or appreciation rights, you will only get that compensation if the company's board of directors or other governing body approves.  You will also need to agree to separate terms covering that compensation with the company.
 
 # Benefits
 
