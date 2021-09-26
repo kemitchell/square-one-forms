@@ -115,7 +115,7 @@ Per the Defend Trade Secrets Act of 2016:
 
 ## Purpose of Intellectual Property Terms
 
-The purpose of [Intellectual Property](#intellectual-property) is to make sure the company gets ownership of all _Intellectual Property Rights_ in your work for the company, or, failing that, broad licenses for it.  Since the legal rules about intellectual property are a bit complicated, these terms are, too.  But at a high level:
+The purpose of [Intellectual Property](#intellectual-property) is to make sure the company gets ownership of all _Intellectual Property Rights_ in your work for the company, or, failing that, broad licenses for it.  But at a high level:
 
 - You promise to let the company know about the work you do in [Disclosure](#disclosure).
 
