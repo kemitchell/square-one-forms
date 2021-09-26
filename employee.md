@@ -19,7 +19,7 @@ By accepting your offer, you guarantee that you aren't under any contract or oth
 
 # Commitment
 
-If your offer is for full-time employment, you agree to devote your whole normal working time to the company.
+If your offer is for full-time employment, you agree to devote full working time to the company.
 
 # Confidentiality and Intellectual Property
 
