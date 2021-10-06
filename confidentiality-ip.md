@@ -181,7 +181,7 @@ You assign all your rights in _New Intellectual Property_ that aren't covered by
 
 ### Further Steps
 
-You agree to do everything necessary to paper assignments in [Assignment](#assignment), make them legally effective, and help the company enforce the rights assigned.  The company will notify you by e-mail of any further steps required, provide all necessary documentation, and reimburse you for reasonable out-of-pocket expenses.
+You agree to do everything necessary to document assignments in [Assignment](#assignment), make them legally effective, and help the company enforce the rights assigned.  The company will notify you by e-mail of any further steps required, provide all necessary documentation, and reimburse you for reasonable out-of-pocket expenses.
 
 ### Acting on Your Behalf
 
