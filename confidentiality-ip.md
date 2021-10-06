@@ -43,7 +43,7 @@ Information you develop or discover on your own, unrelated to your work for the 
 
 ### General Knowledge and Experience
 
-General knowledge and experience that you need to practice your profession or work in your field is not _Confidential Information_.  [Confidentiality](#condifentiality) is not intended to keep you from working after your work with the company ends.
+General knowledge and experience you need to practice your profession or work in your field is not _Confidential Information_.  [Confidentiality](#condifentiality) is not intended to keep you from working, or even fairly competing with the company, after your work with the company ends.
 
 ## Nondisclosure
 
