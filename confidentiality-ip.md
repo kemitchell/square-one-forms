@@ -47,7 +47,7 @@ General knowledge and experience you need to practice your profession or work in
 
 ## Nondisclosure
 
-Except as required by law, you agree not to disclose any _Confidential Information_ to anyone.
+Except as required by law, you agree not to disclose any _Confidential Information_ to anyone, except as directed, in writing, by an officer of the company.
 
 ## Limited Use
 
