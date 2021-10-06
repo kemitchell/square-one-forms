@@ -41,10 +41,6 @@ Information that you have or get access to unrelated to your work for the compan
 
 Information you develop or discover on your own, unrelated to your work for the company and without using company resources, is not, or stops being, _Confidential Information_.
 
-### General Knowledge, Skills, and Experience
-
-General knowledge, skills, and experience you need to practice your profession or work in your field is not _Confidential Information_.  [Confidentiality](#condifentiality) is not intended to keep you from working, or even fairly competing with the company, after your work with the company ends.
-
 ## Nondisclosure
 
 Except as required by law, you agree not to disclose any _Confidential Information_ to anyone, except as directed, in writing, by an officer of the company.
@@ -218,6 +214,16 @@ If the company provides policies on acceptable terms for open source, open data,
 ## Rights to License
 
 Otherwise, you guarantee that you will not include or build on material covered by _Intellectual Property Rights_ that you can't license to the company under [License](#license) in work for the company.
+
+# Fairness
+
+- None of these terms are intended to stop you using general knowledge, skills, and experience gained during your work for the company to work elsewhere, or to even compete fairly with the company.
+
+- None of these terms are intended to stop you pursuing legal claims you may have against the company.
+
+- None of these terms are intended to stop you discussing terms, wages, or conditions of your work, or from organizing workers or doing other things protected by labor laws.
+
+- None of these terms are intended to reduce rights or protections you may have under whistleblower laws.
 
 # General Contract Terms
 
