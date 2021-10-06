@@ -39,7 +39,7 @@ Information that you have or get access to unrelated to your work for the compan
 
 ### Independently Developed Information
 
-Information you develop or discover on your own, unrelated to your work for the company and without using company resources, is not, or stops being, _Confidential Information_.  You will bear the burden of proving that development or discovery was unrelated to your work using written evidence from the time you claim to have developed or discovered the information.
+Information you develop or discover on your own, unrelated to your work for the company and without using company resources, is not, or stops being, _Confidential Information_.
 
 ### General Knowledge and Experience
 
