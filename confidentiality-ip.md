@@ -79,11 +79,11 @@ You agree to tell the company in writing whenever you become aware, suspect, or 
 
 ## Return and Destruction
 
-When your work with the company ends, or when the company asks you to in writing, you agree to promptly:
+When your work with the company ends, and whenever the company asks you to in writing:
 
-- return any physical materials containing _Confidential Information_ that the company asks you to return or asked you to return when provided
+- You agree to promptly return any physical materials containing _Confidential Information_ that the company asks for.
 
-- destroy all other materials containing _Confidential Information_
+- You agree to promptly destroy all other materials containing _Confidential Information_
 
 ## After Termination
 
