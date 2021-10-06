@@ -21,6 +21,8 @@ With the exceptions listed in [Not Confidential Information](#not-confidential-i
 
 - information the company shares with or makes available to you during your work for the company
 
+- information you develop during your work for the company
+
 - information the company shared with you before you started work with the company
 
 - information building on these kinds of information
@@ -38,6 +40,10 @@ Information that you receive other than from the company or related to your work
 ### Independently Developed Information
 
 Information you develop or discover on your own, unrelated to your work for the company, is not, or stops being, _Confidential Information_.  You will bear the burden of proving that development or discovery was unrelated to your work using written evidence from the time you claim to have developed or discovered the information.
+
+### General Knowledge and Experience
+
+General knowledge and experience that you need to practice your profession or work in your field is not _Confidential Information_.  [Confidentiality](#condifentiality) is not intended to keep you from working after your work with the company ends.
 
 ## Nondisclosure
 
