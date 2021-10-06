@@ -71,7 +71,7 @@ On company request, you agree to cooperate with the company and provide reasonab
 
 ## Give Notice of Leaks
 
-You agree to tell the company in writing whenever you become aware, suspect, or anticipate that _Confidential Information_ has been or will be disclosed or used in breach of this agreement or other confidentiality agreements with the company.
+You agree to tell the company in writing whenever you become aware, suspect, or anticipate that _Confidential Information_ has been or will be disclosed or used in breach of these terms or other confidentiality agreements with the company.
 
 ## Return and Destruction
 
@@ -224,29 +224,3 @@ Otherwise, you guarantee that you will not include or build on material covered 
 - None of these terms are intended to stop you discussing terms, wages, or conditions of your work, or from organizing workers or doing other things protected by labor laws.
 
 - None of these terms are intended to reduce rights or protections you may have under whistleblower laws.
-
-# General Contract Terms
-
-## Law
-
-If the company employs you, the law of the state where you work will govern all rights and duties under these terms.  If the company hires you as a contractor, the same law that governs your contract governs these terms.
-
-## Disputes
-
-If the company employs you, the company agrees to make any legal claims related to these terms only in the federal or state courts nearest the address that the company provides with its signature.  If the company hires you as a contractor, the company agrees to follow the dispute-resolution terms of your contract for legal claims related to these terms.
-
-## Whole Agreement
-
-These terms and any document incorporating them by reference list all the terms you and the company agree to about confidentiality and intellectual property in your work for the company.
-
-## No Assignment
-
-You may not assign this agreement without written permission from the company.  The company can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction.  Any attempt to assign rights under this agreement against these terms has no legal effect.
-
-## No Delegation
-
-Neither side may delegate any duty under this agreement.  Any attempt to delegate has no legal effect.
-
-## Unenforceable Terms
-
-If a court decides that any part of these terms can't be enforced, for any reason, the rest of these terms will continue to apply.
