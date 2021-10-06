@@ -19,11 +19,11 @@ The purpose of [Confidentiality](#confidentiality) is to protect company secrets
 
 With the exceptions listed in [Not Confidential Information](#not-confidential-information), **Confidential Information** means:
 
-- all information the company shares with you during your work for the company
+- information the company shares with you during your work for the company
 
-- any information the company shared with you before you started work with the company
+- information the company shared with you before you started work with the company
 
-- any information building on these kinds of information
+- information building on these kinds of information
 
 ## Not Confidential Information
 
