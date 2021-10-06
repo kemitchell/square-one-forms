@@ -35,7 +35,7 @@ Information that is already public is not _Confidential Information_.  _Confiden
 
 ### Information from Other Sources
 
-Information that you receive other than from the company or related to your work for the company is not _Confidential Information_, unless the source breached a confidentiality obligation to the company by providing the information.
+Information that you have or get access to unrelated to your work for the company is not _Confidential Information_, unless the source breached a confidentiality obligation to the company by providing the information to you.
 
 ### Independently Developed Information
 
