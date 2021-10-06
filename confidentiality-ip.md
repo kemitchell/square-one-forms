@@ -65,9 +65,9 @@ These rules apply when the law requires you to disclose _Confidential Informatio
 
 If the law allows, you agree to promptly notify the company of the nature of the requirement and the _Confidential Information_ affected.  If practical, you agree to give notice quickly enough to give the company a practical chance to start a proceeding to protect the confidentiality of the _Confidential Information_.
 
-### Cooperate and Assist
+### Assistance
 
-On company request, you agree to cooperate with the company and provide reasonable assistance to the company in any proceeding to protect the confidentiality of _Confidential Information_.  The company agrees to reimburse your reasonable out-of-pocket expenses of that cooperation and assistance.
+On company request, you agree to cooperate with and help the company in any proceeding to protect the confidentiality of _Confidential Information_.  The company agrees to reimburse your necessary out-of-pocket expenses.
 
 ## Give Notice of Leaks
 
@@ -177,7 +177,7 @@ You assign all your rights in _New Intellectual Property_ that aren't covered by
 
 ### Further Steps
 
-You agree to do everything necessary to document assignments in [Assignment](#assignment), make them legally effective, and help the company enforce the rights assigned.  The company will notify you by e-mail of any further steps required, provide all necessary documentation, and reimburse you for reasonable out-of-pocket expenses.
+On company request, you agree to do everything necessary to document assignments in [Assignment](#assignment), make them legally effective, and help the company enforce the rights assigned.  The company agrees to provide all necessary documentation and reimburse your necessary out-of-pocket expenses.
 
 ### Acting on Your Behalf
 
