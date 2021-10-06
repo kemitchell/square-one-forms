@@ -41,9 +41,9 @@ Information that you have or get access to unrelated to your work for the compan
 
 Information you develop or discover on your own, unrelated to your work for the company and without using company resources, is not, or stops being, _Confidential Information_.
 
-### General Knowledge and Experience
+### General Knowledge, Skills, and Experience
 
-General knowledge and experience you need to practice your profession or work in your field is not _Confidential Information_.  [Confidentiality](#condifentiality) is not intended to keep you from working, or even fairly competing with the company, after your work with the company ends.
+General knowledge, skills, and experience you need to practice your profession or work in your field is not _Confidential Information_.  [Confidentiality](#condifentiality) is not intended to keep you from working, or even fairly competing with the company, after your work with the company ends.
 
 ## Nondisclosure
 
