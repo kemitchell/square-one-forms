@@ -139,8 +139,6 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 **New Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
 
-  - work you did before starting work with the company, as a head start on work for the company
-
   - work you do for the company
 
   - work you create using equipment, supplies, facilities, or confidential information from the company
