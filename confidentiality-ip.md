@@ -133,7 +133,7 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ### General Definition
 
-**New Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
+With the possible exception listed in [State Law Exclusions](#state-law-exclusions), **New Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
 
   - work you do or have done for the company
 
