@@ -131,29 +131,13 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ## Covered Intellectual Property
 
-### General Definition
-
-With the possible exception listed in [State Law Exclusions](#state-law-exclusions), **New Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
+**New Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
 
   - work you do or have done for the company
 
   - work you create using company equipment, supplies, facilities, or _Confidential Information_
 
   - work building on these kinds of work
-
-### State Law Exclusions
-
-If you work in a state with laws that limit the _Intellectual Property Rights_ that terms like these can assign to the company, _New Intellectual Property_ does not include any rights that can't legally be assigned under that law. Examples of those state laws include:
-
-- California Labor Code section 2870
-- Delaware Code title 19 section 805
-- Illinois Compiled Statutes section 1060/2
-- Kansas Labor and Industries Code section 44-130
-- Minnesota Labor, Industry Code section 181.78
-- New Jersey Statutes section 34:1B-265
-- North Carolina General Statutes chapter 66 article 10 sections 66-57.1 and 66-57.2
-- Utah Code title 34 chapter 39
-- Washington Revised Code sections 49.44.140 and 49.44.150
 
 ## Disclosure
 
@@ -175,6 +159,20 @@ Some states have laws that make workers who agree to make "work made for hire" i
 
 You assign all your rights in _New Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) to the company.
 
+### State Law Exclusions
+
+If you work in a state with laws that limit the _Intellectual Property Rights_ that terms like these can assign to the company, [Assignment](#assignment) does not assign those _Intellectual Property Rights_ to the company. Examples of those state laws include:
+
+- California Labor Code section 2870
+- Delaware Code title 19 section 805
+- Illinois Compiled Statutes section 1060/2
+- Kansas Labor and Industries Code section 44-130
+- Minnesota Labor, Industry Code section 181.78
+- New Jersey Statutes section 34:1B-265
+- North Carolina General Statutes chapter 66 article 10 sections 66-57.1 and 66-57.2
+- Utah Code title 34 chapter 39
+- Washington Revised Code sections 49.44.140 and 49.44.150
+
 ### Further Steps
 
 On company request, you agree to do everything necessary to document assignments in [Assignment](#assignment), make them legally effective, and help the company enforce the rights assigned.  The company agrees to provide all necessary documentation and reimburse your necessary out-of-pocket expenses.
@@ -191,7 +189,7 @@ In legal terms of art, [What the Company Can Do](#what-the-company-can-do) appoi
 
 ## License
 
-You give the company a license for all rights in _New Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) or [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.  As far as possible, the license is also exclusive, so you can't license the same _Intellectual Property Rights_ to anyone else.
+You give the company a license for all rights in _New Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.  As far as possible, the license is also exclusive, so you can't license the same _Intellectual Property Rights_ to anyone else.  However, the license for any _Intellectual Property Rights_ covered by [State Law Exclusions](#state-law-exclusions) is nonexclusive.
 
 ## Moral Rights
 
