@@ -131,7 +131,7 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ## Covered Intellectual Property
 
-**New Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
+**Covered Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
 
   - work you do or have done for the company
 
@@ -141,13 +141,13 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ## Disclosure
 
-You agree to keep records of the work you create for the company, and to promptly disclose _New Intellectual Property_ covered by these terms to the company in writing, as it is created.  If you're not sure whether you've created _New Intellectual Property_, you agree to disclose your work to the company anyway, so the company can decide.
+You agree to keep records of the work you create for the company, and to promptly disclose _Covered Intellectual Property_ covered by these terms to the company in writing, as it is created.  If you're not sure whether you've created _Covered Intellectual Property_, you agree to disclose your work to the company anyway, so the company can decide.
 
 ## Work Made for Hire
 
 ### Express Agreement to Make "Work Made for Hire"
 
-Subject to [State Employment Law Exception](#state-employment-law-exception), as far as the law allows, _New Intellectual Property_ will be "work made for hire" under copyright law.
+Subject to [State Employment Law Exception](#state-employment-law-exception), as far as the law allows, _Covered Intellectual Property_ will be "work made for hire" under copyright law.
 
 ### State Employment Law Exception
 
@@ -157,7 +157,7 @@ Some states have laws that make workers who agree to make "work made for hire" i
 
 ### Assignment of Rights
 
-You assign all your rights in _New Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) to the company.
+You assign all your rights in _Covered Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) to the company.
 
 ### State Invention Assignment Exceptions
 
@@ -189,7 +189,7 @@ In legal terms of art, [What the Company Can Do](#what-the-company-can-do) appoi
 
 ## License
 
-You give the company a license for all rights in _New Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.  As far as possible, the license is also exclusive, so you can't license the same _Intellectual Property Rights_ to anyone else.  However, the license for any _Intellectual Property Rights_ covered by [State Invention Assignment Exceptions](#state-invention-assignment-exceptions) is nonexclusive.
+You give the company a license for all rights in _Covered Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.  As far as possible, the license is also exclusive, so you can't license the same _Intellectual Property Rights_ to anyone else.  However, the license for any _Intellectual Property Rights_ covered by [State Invention Assignment Exceptions](#state-invention-assignment-exceptions) is nonexclusive.
 
 ## Moral Rights
 
@@ -207,7 +207,7 @@ You guarantee you will not infringe the _Intellectual Property Rights_ of others
 
 ## Open Licensing
 
-If the company provides policies on acceptable terms for open source, open data, open content, material dedicated to the public domain, or similar kinds of freely available work, you agree to follow those policies.  You guarantee that any freely available work that you include in or build on in _New Intellectual Property_ will conform to those policies.
+If the company provides policies on acceptable terms for open source, open data, open content, material dedicated to the public domain, or similar kinds of freely available work, you agree to follow those policies.  You guarantee that any freely available work that you include in or build on in _Covered Intellectual Property_ will conform to those policies.
 
 ## Rights to License
 
