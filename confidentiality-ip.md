@@ -159,7 +159,7 @@ Some states have laws that make workers who agree to make "work made for hire" i
 
 You assign all your rights in _New Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) to the company.
 
-### State Law Exclusions
+### State Invention Assignment Exceptions
 
 If you work in a state with laws that limit the _Intellectual Property Rights_ that terms like these can assign to the company, [Assignment](#assignment) does not assign those _Intellectual Property Rights_ to the company. Examples of those state laws include:
 
@@ -189,7 +189,7 @@ In legal terms of art, [What the Company Can Do](#what-the-company-can-do) appoi
 
 ## License
 
-You give the company a license for all rights in _New Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.  As far as possible, the license is also exclusive, so you can't license the same _Intellectual Property Rights_ to anyone else.  However, the license for any _Intellectual Property Rights_ covered by [State Law Exclusions](#state-law-exclusions) is nonexclusive.
+You give the company a license for all rights in _New Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.  As far as possible, the license is also exclusive, so you can't license the same _Intellectual Property Rights_ to anyone else.  However, the license for any _Intellectual Property Rights_ covered by [State Invention Assignment Exceptions](#state-invention-assignment-exceptions) is nonexclusive.
 
 ## Moral Rights
 
