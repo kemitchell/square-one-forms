@@ -111,10 +111,6 @@ Per the Defend Trade Secrets Act of 2016:
 
 # Intellectual Property
 
-## Intellectual Property Rights
-
-**Intellectual Property Rights** are legal rights in ideas, inventions, information, and other things that aren't physical property.  Copyrights, patents, trade secrets, and trademarks are the most common.  When these terms say _Intellectual Property Rights_, they also mean legal rights in applications to protect _Intellectual Property Rights_, like copyright, trademark, and patent applications.
-
 ## Purpose of Intellectual Property Terms
 
 The purpose of [Intellectual Property](#intellectual-property) is to make sure the company gets ownership of all _Intellectual Property Rights_ in your work for the company, or, failing that, broad licenses for it.  In summary:
@@ -128,6 +124,10 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 - If you can't transfer your rights, or use the rights of others, you license them to the company in [License](#license).
 
 - If you can't transfer special "moral rights", such as in artwork, you agree not to enforce those rights in [Moral Rights](#moral-rights).
+
+## Intellectual Property Rights
+
+**Intellectual Property Rights** are legal rights in ideas, inventions, information, and other things that aren't physical property.  Copyrights, patents, trade secrets, and trademarks are the most common.  When these terms say _Intellectual Property Rights_, they also mean legal rights in applications to protect _Intellectual Property Rights_, like copyright, trademark, and patent applications.
 
 ## Covered Intellectual Property
 
