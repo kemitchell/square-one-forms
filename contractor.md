@@ -15,7 +15,7 @@ You will do the work described in the statement of work incorporating these term
 
 # Fees and Expenses
 
-The company will pay the fees described in the statement of work, and reimburse expenses that an executive officer of the company approves in writing, specifically, in advance.
+The company will pay the fees described in the statement of work and reimburse expenses that an executive officer of the company approves in writing, specifically, in advance.
 
 # Payment
 
