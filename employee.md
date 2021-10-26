@@ -1,6 +1,6 @@
 ---
 title: Square One Standard Employee Terms
-edition: First Edition, Second Update
+edition: Development Draft
 signatures: []
 blanks: {}
 ---
@@ -9,21 +9,25 @@ blanks: {}
 
 Your offer is for "at will" employment.  The company can let you go at any time, for any reason, without advance warning.  By the same token, you can leave the company at any time, for any reason, by notifying the company in writing.
 
+# Notice
+
+You and the company acknowledge that giving two weeks' notice before letting someone go or leaving a company is broadly considered common courtesy.  However, legal terms between companies and employees rarely if ever make that two week's notice a legal obligation, and these terms don't, either.
+
 # Eligibility
 
 You must give your hiring contact documents to prove that you have the right to work in the United States, such as ID and a social security card, a passport, or a green card, within three days of starting work.  This requirement applies to United States citizens and others alike.
 
 # Conflicts
 
-By accepting your offer, you guarantee that you aren't under any contract or other legal obligation that will prevent you from doing your job.
+By accepting your offer, you guarantee that you aren't under any contract or other legal obligation that will significantly limit your ability to do your job.
 
 # Commitment
 
-If your offer is for full-time employment, you agree to devote your whole normal working time to the company.
+If your offer is for full-time employment, you agree to devote full working time to the company.
 
 # Confidentiality and Intellectual Property
 
-In order to become an employee, you must first agree to terms with the company about confidentiality and intellectual property.  You agree to the Square One Standard Confidentiality and Intellectual Property Terms, First Edition, Second Update (https://squareoneforms.com/confidentiality-ip/1e2u).
+You agree to the Square One Standard Confidentiality and Intellectual Property Terms, First Edition, Second Update (https://squareoneforms.com/confidentiality-ip/1e2u).
 
 # Policies
 
@@ -49,7 +53,7 @@ The pay and other compensation the company offers you may be subject to withhold
 
 # Equity
 
-If your offer letter includes equity compensation like stock, options, or appreciation rights, that compensation is subject to approval by the company's board of directors or other governing body.
+If your offer letter includes equity compensation like stock, options, or appreciation rights, you will only get that compensation if the company's board of directors or other governing body approves.  You will also have to agree to separate terms for that compensation with the company.
 
 # Benefits
 
@@ -69,4 +73,4 @@ You and the company will change the terms of your employment, if ever, only by w
 
 # All Terms
 
-These terms, the offer letter referencing them, and the required confidentiality and intellectual property agreement set out all the terms for your offer of employment by the company.  They replace any other terms about your employment you may have been discussed before, in conversation or in writing.
+These terms, the offer letter referencing them, and the required confidentiality and intellectual property agreement set out all the terms for your offer of employment by the company.  They replace any other terms about your employment you may have seen or discussed before, in writing or in conversation.
