@@ -81,7 +81,7 @@ You and the company agree to do your respective parts for tax, labor, employment
 
 ## Compliance Indemnity
 
-You will pay any losses that the company pays or becomes legally responsible to pay, including expenses of defending against any legal claim related to your failure under [Compliance](#compliance) for you or any of your personnel. The company will promptly notify you by e-mail whenever it anticipates possible losses that you might have to pay. If the company fails to notify you promptly, you will not pay the company losses that you could have reduced or defended against if the company had notified you promptly.
+You will pay any losses that the company pays or becomes legally responsible to pay, including attorney fees and costs, for defending against any legal claim related to your failure under [Compliance](#compliance) for you or any of your personnel. The company will promptly notify you by e-mail whenever it anticipates possible losses that you might have to pay. If the company fails to notify you promptly, you will not pay the company losses that you could have reduced or defended against if the company had notified you promptly.
 
 ## Conflicts
 
