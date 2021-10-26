@@ -51,7 +51,7 @@ This agreement will end once work is done under the statement of work.
 
 ## Early Termination
 
-You or the company can end this agreement early by notifying the other by e-mail `early termination deadline` in advance. The company can also end this agreement early under [Conflicts](#conflicts).
+You or the company can end this agreement early by notifying the other by e-mail `early termination deadline` in advance.
 
 ## Final Bill
 
