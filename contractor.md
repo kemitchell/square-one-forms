@@ -103,7 +103,7 @@ You and the company agree to the Square One Standard Confidentiality and Intelle
 
 ## Law
 
-The law of the state of the address the company provides with its signature on the statement of work governs all rights and duties under this agreement.
+The law of the state of the address the company provides with its signature to the statement of work governs all rights and duties under this agreement.
 
 ## Disputes
 
