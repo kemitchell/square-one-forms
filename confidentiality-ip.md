@@ -13,17 +13,19 @@ These terms set out the rules about confidential information and intellectual pr
 
 ## Purpose of Confidentiality
 
-The purpose of [Confidentiality](#confidentiality) is to protect the company's confidential information, as well as confidential information entrusted to the company by others.
+The purpose of [Confidentiality](#confidentiality) is to protect company secrets and meet the company's obligations under confidentiality agreements with customers, suppliers, and others.
 
 ## Confidential Information
 
-With the exceptions listed in [Not Confidential Information](#not-confidential-information), **Confidential Information** means:
+With the exceptions listed in [Not Confidential Information](#not-confidential-information), **Confidential Information** means information that:
 
-- all information the company shares with you during your work for the company
+- the company shares with or makes available to you during your work for the company
 
-- any information the company shared with you before you started work with the company, as a head start bringing you up to speed for work
+- you develop during your work for the company
 
-- any information building on these kinds of information
+- the company shared with you before you started work with the company
+
+- builds on these kinds of information
 
 ## Not Confidential Information
 
@@ -33,15 +35,15 @@ Information that is already public is not _Confidential Information_.  _Confiden
 
 ### Information from Other Sources
 
-Information that you receive other than from the company or related to your work for the company is not _Confidential Information_, unless the source breached a confidentiality obligation to the company by providing the information.
+Information that you have or get access to unrelated to your work for the company is not _Confidential Information_, unless the source breached a confidentiality obligation to the company by providing the information to you.
 
 ### Independently Developed Information
 
-Information you develop or discover on your own, unrelated to your work for the company, is not, or stops being, _Confidential Information_.  You will bear the burden of proving that development or discovery was unrelated to your work using written evidence from the time you claim to have developed or discovered the information.
+Information you develop or discover on your own, unrelated to your work for the company and without using company resources, is not, or stops being, _Confidential Information_.
 
 ## Nondisclosure
 
-Except as required by law, you agree not to disclose any _Confidential Information_ to anyone.
+Except as required by law, you agree not to disclose any _Confidential Information_ to anyone, except as directed, in writing, by an officer of the company.
 
 ## Limited Use
 
@@ -49,7 +51,7 @@ You agree to use _Confidential Information_ only in your work for the company, t
 
 ## Security
 
-You agree to take reasonable measures to secure computer files, documents, e-mails, and any other materials containing _Confidential Information_.  If the company provides written security requirements for some or all _Confidential Information_ you receive, you agree to either follow those requirements or to notify the company immediately that you will not.
+You agree to take reasonable measures to secure computer files, documents, e-mails, and any other materials containing _Confidential Information_.  If the company provides written security requirements for some or all _Confidential Information_ you receive, you agree to follow those requirements to the best of your ability, and to tell your supervisor immediately about requirements you can't follow.
 
 ## Preserve Proprietary Notices
 
@@ -63,21 +65,21 @@ These rules apply when the law requires you to disclose _Confidential Informatio
 
 If the law allows, you agree to promptly notify the company of the nature of the requirement and the _Confidential Information_ affected.  If practical, you agree to give notice quickly enough to give the company a practical chance to start a proceeding to protect the confidentiality of the _Confidential Information_.
 
-### Cooperate and Assist
+### Assistance
 
-On company request, you agree to cooperate with the company and provide reasonable assistance to the company in any proceeding to protect the confidentiality of _Confidential Information_.  The company agrees to reimburse your reasonable out-of-pocket expenses of that cooperation and assistance.
+On company request, you agree to cooperate with and help the company in any proceeding to protect the confidentiality of _Confidential Information_.  The company agrees to reimburse your necessary out-of-pocket expenses.
 
 ## Give Notice of Leaks
 
-You agree to tell the company in writing whenever you become aware, suspect, or anticipate that _Confidential Information_ has been or will be disclosed or used in breach of this agreement or other confidentiality agreements with the company.
+You agree to tell the company in writing whenever you become aware, suspect, or anticipate that _Confidential Information_ has been or will be disclosed or used in breach of these terms or other confidentiality agreements with the company.
 
 ## Return and Destruction
 
-When your work with the company ends, or when the company asks you to in writing, you agree to promptly:
+When your work with the company ends, and whenever the company asks you to in writing:
 
-- return materials containing _Confidential Information_ that the company provided with a request to return
+- You agree to promptly return any physical materials containing _Confidential Information_ that the company asks for.
 
-- destroy other materials containing _Confidential Information_
+- You agree to promptly destroy all other materials containing _Confidential Information_
 
 ## After Termination
 
@@ -86,14 +88,6 @@ After your work with the company ends:
 - Your obligations for _Confidential Information_ that you know or should reasonably expect the company protects as a trade secret continue as long as the _Confidential Information_ remains a trade secret.
 
 - Your obligations for other _Confidential Information_ continue for five calendar years from the date your work with the company ended.
-
-## No License
-
-The company does not grant you any license for _Intellectual Property Rights_ in _Confidential Information_.
-
-## No Warranty
-
-The company does not make any promise that _Confidential Information_ will be complete or accurate.
 
 ## Defend Trade Secrets Act Notice
 
@@ -123,7 +117,7 @@ Per the Defend Trade Secrets Act of 2016:
 
 ## Purpose of Intellectual Property Terms
 
-The purpose of [Intellectual Property](#intellectual-property) is to make sure the company gets ownership of all _Intellectual Property Rights_ in your work for the company, or, failing that, very broad licenses for it.  Since the legal rules about intellectual property are a bit complicated, these terms are, too.  But at a high level:
+The purpose of [Intellectual Property](#intellectual-property) is to make sure the company gets ownership of all _Intellectual Property Rights_ in your work for the company, or, failing that, broad licenses for it.  In summary:
 
 - You promise to let the company know about the work you do in [Disclosure](#disclosure).
 
@@ -137,21 +131,37 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ## Covered Intellectual Property
 
-### General Definition
+**Covered Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
 
-**New Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
+  - work you do or have done for the company
 
-  - work you did before starting work with the company, as a head start on work for the company
+  - work you create using company equipment, supplies, facilities, or _Confidential Information_
 
-  - work you do for the company
+  - work building on these kinds of work
 
-  - work you create using equipment, supplies, facilities, or confidential information from the company
+## Disclosure
 
-  - any work building on these kinds of work
+You agree to keep records of the work you create for the company, and to promptly disclose _Covered Intellectual Property_ covered by these terms to the company in writing, as it is created.  If you're not sure whether you've created _Covered Intellectual Property_, you agree to disclose your work to the company anyway, so the company can decide.
 
-### State Law Exclusions
+## Work Made for Hire
 
-If you work in a state with laws that limit the _Intellectual Property Rights_ that terms like these can assign to the company, _New Intellectual Property_ does not include any rights that can't legally be assigned under that law. Examples of those state laws include:
+### Express Agreement to Make "Work Made for Hire"
+
+Subject to [State Employment Law Exception](#state-employment-law-exception), as far as the law allows, _Covered Intellectual Property_ will be "work made for hire" under copyright law.
+
+### State Employment Law Exception
+
+Some states have laws that make workers who agree to make "work made for hire" into employees, even if they would otherwise be contractors.  For example, section 3351.5(c) of the California Labor Code and section 686 of the California Unemployment Insurance Code.  If you work in one of those states and work for the company as a contractor, [Express Agreement to Make "Work Made for Hire"](#express-agreement-to-make-work-made-for-hire) does not apply if it would make you an employee under that state's law.
+
+## Assignment
+
+### Assignment of Rights
+
+You assign all your rights in _Covered Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) to the company.
+
+### State Invention Assignment Exceptions
+
+If you work in a state with laws that limit the _Intellectual Property Rights_ that terms like these can assign to the company, [Assignment](#assignment) does not assign those _Intellectual Property Rights_ to the company. Examples of those state laws include:
 
 - California Labor Code section 2870
 - Delaware Code title 19 section 805
@@ -163,29 +173,9 @@ If you work in a state with laws that limit the _Intellectual Property Rights_ t
 - Utah Code title 34 chapter 39
 - Washington Revised Code sections 49.44.140 and 49.44.150
 
-## Disclosure
-
-You agree to keep records of the work you create for the company, and to promptly disclose _New Intellectual Property_ covered by these terms to the company in writing, as it is created.  If you're not sure whether you've created _New Intellectual Property_, you agree to disclose your work to the company anyway, so the company can decide.
-
-## Work Made for Hire
-
-### Express Agreement to Make "Work Made for Hire"
-
-Subject to [State Employment Law Exception](#state-employment-law-exception), as far as the law allows, _New Intellectual Property_ will be "work made for hire" under copyright law.
-
-### State Employment Law Exception
-
-Some states have laws that make workers who agree to make "work made for hire" into employees, even if they would otherwise be contractors.  For example, section 3351.5(c) of the California Labor Code and section 686 of the California Unemployment Insurance Code.  If you work in one of those states and work for the company as a contractor, [Express Agreement to Make "Work Made for Hire"](#express-agreement-to-make-work-made-for-hire) does not apply if it would make you an employee under that state's law.
-
-## Assignment
-
-### Assignment of Rights
-
-You assign all your rights in _New Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) to the company.
-
 ### Further Steps
 
-You agree to do everything necessary to paper assignments in [Assignment](#assignment), make them legally effective, and help the company enforce the rights assigned.  The company will notify you by e-mail of any further steps required, provide all necessary documentation, and reimburse you for reasonable out-of-pocket expenses.
+On company request, you agree to do everything necessary to document assignments in [Assignment](#assignment), make them legally effective, and help the company enforce the rights assigned.  The company agrees to provide all necessary documentation and reimburse your necessary out-of-pocket expenses.
 
 ### Acting on Your Behalf
 
@@ -199,7 +189,7 @@ In legal terms of art, [What the Company Can Do](#what-the-company-can-do) appoi
 
 ## License
 
-You give the company a license for all rights in _New Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) or [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.
+You give the company a license for all rights in _Covered Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.  As far as possible, the license is also exclusive, so you can't license the same _Intellectual Property Rights_ to anyone else.  However, the license for any _Intellectual Property Rights_ covered by [State Invention Assignment Exceptions](#state-invention-assignment-exceptions) is nonexclusive.
 
 ## Moral Rights
 
@@ -217,34 +207,20 @@ You guarantee you will not infringe the _Intellectual Property Rights_ of others
 
 ## Open Licensing
 
-If the company provides policies on acceptable terms for open source, open data, open content, material dedicated to the public domain, or similar kinds of freely available work, you agree to follow those policies.  You guarantee that any freely available work that you include in or build on in _New Intellectual Property_ will conform to those policies.
+If the company provides policies on acceptable terms for open source, open data, open content, material dedicated to the public domain, or similar kinds of freely available work, you agree to follow those policies.  You guarantee that any freely available work that you include in or build on in _Covered Intellectual Property_ will conform to those policies.
 
 ## Rights to License
 
 Otherwise, you guarantee that you will not include or build on material covered by _Intellectual Property Rights_ that you can't license to the company under [License](#license) in work for the company.
 
-# General Contract Terms
+# Fairness
 
-## Law
+- None of these terms are intended to stop you using general knowledge, skills, and experience gained during your work for the company to work elsewhere, or to even compete fairly with the company.
 
-If the company employs you, the law of the state where you work will govern all rights and duties under these terms.  If the company hires you as a contractor, the same law that governs your contract governs these terms.
+- None of these terms are intended to stop you pursuing legal claims you may have against the company.
 
-## Disputes
+- None of these terms are intended to stop you discussing terms, wages, or conditions of your work, or from organizing workers or doing other things protected by labor laws.
 
-If the company employs you, the company agrees to make any legal claims related to these terms only in the federal or state courts nearest the address that the company provides with its signature.  If the company hires you as a contractor, the company agrees to follow the dispute-resolution terms of your contract for legal claims related to these terms.
+- None of these terms are intended to reduce rights or protections you may have under whistleblower laws.
 
-## Whole Agreement
-
-These terms and any document incorporating them by reference list all the terms you and the company agree to about confidentiality and intellectual property in your work for the company.
-
-## No Assignment
-
-You may not assign our agreement without written permission from the company.  The company can assign our agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal for or jurisdiction.  Any attempt to assign rights under our agreement against these terms has no legal effect.
-
-## No Delegation
-
-Neither side may delegate any duty under our agreement.  Any attempt to delegate has no legal effect.
-
-## Unenforceable Terms
-
-If a court decides that any part of these terms can't be enforced, for any reason, the rest of these terms will continue to apply.
+- If the company employs you, California law governs these terms, and [Confidentiality](#confidentiality) is read to restrict your ability to disclosure information related to conditions in the workplace, then nothing in these terms prevents you from discussing or disclosing information about unlawful acts in the workplace, such as harassment or discrimination or any other conduct that you have reason to believe is unlawful.
