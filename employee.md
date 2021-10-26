@@ -11,7 +11,7 @@ Your offer is for "at will" employment.  The company can let you go at any time,
 
 # Notice
 
-You and the company acknowledge that giving two weeks' notice before letting someone go or leaving a company is broadly considered common courtesy.  However, legal terms between companies and employees rarely if ever make that two week's notice a legal obligation, and these terms don't, either.
+You and the company acknowledge that giving two weeks' notice before letting someone go or leaving a company is broadly considered common courtesy.  However, legal terms between companies and employees rarely if ever make two week's notice a legal obligation, and these terms don't, either.
 
 # Eligibility
 
