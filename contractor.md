@@ -115,7 +115,7 @@ These terms, the statement of work, and the terms included in [Confidentiality a
 
 ## Assignment
 
-You cannot assign any right under this agreement without the permission of an executive officer of the company in writing, in advance. The company can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction. Any attempt to assign rights under this agreement against its terms has no legal effect.
+You cannot assign any right under this agreement without the advance, written permission of an executive officer of the company. The company can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction. Any attempt to assign rights under this agreement against its terms has no legal effect.
 
 ## Delegation
 
