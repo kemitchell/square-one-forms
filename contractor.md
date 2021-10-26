@@ -119,7 +119,7 @@ You cannot assign any right under this agreement without the advance, written pe
 
 ## Delegation
 
-Neither party can delegate any duty under this agreement. Any attempt to delegate has no legal effect.
+Neither party can delegate any duty under this agreement. Any attempt to delegate duties under this agreement has no legal effect.
 
 ## Unenforceable Terms
 
