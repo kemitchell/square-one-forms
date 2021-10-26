@@ -31,7 +31,7 @@ You agree to the Square One Standard Confidentiality and Intellectual Property T
 
 # Policies
 
-During your work for the company, you will abide by company policies, handbooks, and other rules that apply to employees in positions similar to yours.
+During your work for the company, you agree to abide by company policies, handbooks, and other rules that apply to employees in positions similar to yours.
 
 # Hours
 
