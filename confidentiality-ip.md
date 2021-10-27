@@ -199,11 +199,11 @@ If the law gives you "moral rights" in work for the company that you can't assig
 
 ## Conflicting Agreements
 
-You guarantee that agreeing to these terms and following them won't cause you to break any other agreement with anyone else
+You guarantee that agreeing to these terms and following them won't cause you to break any other agreement with anyone else.
 
 ## Intellectual Property Infringement
 
-You guarantee you will not infringe the _Intellectual Property Rights_ of others in work for the company
+You guarantee you will not infringe the _Intellectual Property Rights_ of others in work for the company.
 
 ## Open Licensing
 
