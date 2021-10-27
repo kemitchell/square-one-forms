@@ -1,6 +1,6 @@
 ---
 title: Square One Standard Contractor Terms
-edition: First Edition, Second Update
+edition: Second Edition
 signatures: []
 blanks:
   payment deadline: fourteen calendar days
@@ -89,7 +89,7 @@ You will notify the company by e-mail of any other company that you anticipate w
 
 # Confidentiality and Intellectual Property
 
-You and the company agree to the Square One Standard Confidentiality and Intellectual Property Terms, First Edition, Second Update (https://squareoneforms.com/confidentiality-ip/1e2u).
+You and the company agree to the Square One Standard Confidentiality and Intellectual Property Terms, Second Edition (https://squareoneforms.com/confidentiality-ip/2e).
 
 # Disclaimer
 
