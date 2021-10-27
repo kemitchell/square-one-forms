@@ -141,7 +141,7 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ## Disclosure
 
-You agree to keep records of the work you create for the company, and to promptly disclose _Covered Intellectual Property_ covered by these terms to the company in writing, as it is created.  If you're not sure whether you've created _Covered Intellectual Property_, you agree to disclose your work to the company anyway, so the company can decide.
+You agree to keep records of the work you create for the company, and to promptly disclose _Covered Intellectual Property_ to the company in writing, as it is created.  If you're not sure whether you've created _Covered Intellectual Property_, you agree to disclose your work to the company anyway, so the company can decide.
 
 ## Work Made for Hire
 
