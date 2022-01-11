@@ -171,6 +171,7 @@ If you work in a state with laws that limit the _Intellectual Property Rights_ t
 - New Jersey Statutes section 34:1B-265
 - North Carolina General Statutes chapter 66 article 10 sections 66-57.1 and 66-57.2
 - Utah Code title 34 chapter 39
+<!-- Note that 34-39-3 prohibits enforcement of agreements not just to assign or offer to assign, but also to license or offer to license.  See https://www.redline.net/queries/license-inventions-covered-california-labor-code-2870. -->
 - Washington Revised Code sections 49.44.140 and 49.44.150
 
 ### Further Steps
@@ -189,7 +190,7 @@ In legal terms of art, [What the Company Can Do](#what-the-company-can-do) appoi
 
 ## License
 
-You give the company a license for all rights in _Covered Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.  As far as possible, the license is also exclusive, so you can't license the same _Intellectual Property Rights_ to anyone else.  However, the license for any _Intellectual Property Rights_ covered by [State Invention Assignment Exceptions](#state-invention-assignment-exceptions) is nonexclusive.
+As far as the law allows, you give the company a license for all rights in _Covered Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.  That license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.  As far as possible, the license is also exclusive, so you can't license the same _Intellectual Property Rights_ to anyone else.  However, the license for any _Intellectual Property Rights_ covered by [State Invention Assignment Exceptions](#state-invention-assignment-exceptions) is nonexclusive.
 
 ## Moral Rights
 
