@@ -200,7 +200,7 @@ If you work in a state with laws that limit the _Intellectual Property Rights_ t
 
 ### Scope of License
 
-The license allows the company to do anything that would otherwise infringe _Intellectual Property Rights_, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.
+The license allows the company to do anything that would otherwise infringe the _Intellectual Property Rights_ it covers, and to sublicense others to do so.  The license isn't limited in time or otherwise, and you can't revoke it.
 
 ### Exclusivity
 
