@@ -238,4 +238,4 @@ Otherwise, you guarantee that you will not include or build on material covered 
 
 - None of these terms are intended to reduce rights or protections you may have under whistleblower laws.
 
-- If the company employs you, California law governs these terms, and [Confidentiality](#confidentiality) is read to restrict your ability to disclosure information related to conditions in the workplace, then nothing in these terms prevents you from discussing or disclosing information about unlawful acts in the workplace, such as harassment or discrimination or any other conduct that you have reason to believe is unlawful.
+- None of these terms prevents you from discussing or disclosing information about unlawful acts in the workplace, such as harassment or discrimination or any other conduct that you have reason to believe is unlawful.
