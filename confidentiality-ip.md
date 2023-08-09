@@ -157,7 +157,7 @@ Subject to [State Employment Law Exception](#state-employment-law-exception), as
 
 ### State Employment Law Exception
 
-Some states have laws that make workers who agree to make "work made for hire" into employees, even if they would otherwise be contractors.  For example, section 3351.5(c) of the California Labor Code and section 686 of the California Unemployment Insurance Code.  If you work in one of those states and work for the company as a contractor, [Express Agreement to Make "Work Made for Hire"](#express-agreement-to-make-work-made-for-hire) does not apply if it would make you an employee under that state's law.
+Some states have laws that treat workers who agree to make "work made for hire" like employees, even if they would otherwise be contractors.  For example, section 3351.5(c) of the California Labor Code and section 686 of the California Unemployment Insurance Code.  If you work in one of those states and work for the company as a contractor, [Express Agreement to Make "Work Made for Hire"](#express-agreement-to-make-work-made-for-hire) does not apply if it would get you treated as an employee under that state's law.
 
 ## Assignment
 
