@@ -135,9 +135,9 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 **Intellectual Property Rights** are legal rights in ideas, inventions, information, and other things that aren't physical property.  Copyrights, patents, trade secrets, and trademarks are the most common.  When these terms say _Intellectual Property Rights_, they also mean legal rights in applications to protect _Intellectual Property Rights_, like copyright, trademark, and patent applications.
 
-## Covered Intellectual Property
+## Company Intellectual Property
 
-**Covered Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
+**Company Intellectual Property** means all _Intellectual Property Rights_ in these kinds of work, created by you alone or with others:
 
   - work you do or have done for the company
 
@@ -147,13 +147,13 @@ The purpose of [Intellectual Property](#intellectual-property) is to make sure t
 
 ## Disclosure
 
-You agree to keep records of the work you create for the company, and to promptly disclose _Covered Intellectual Property_ to the company in writing, as it is created.  If you're not sure whether you've created _Covered Intellectual Property_, you agree to disclose your work to the company, so the company can decide.
+You agree to keep records of the work you create for the company, and to promptly disclose _Company Intellectual Property_ to the company in writing, as it is created.  If you're not sure whether you've created _Company Intellectual Property_, you agree to disclose your work to the company, so the company can decide.
 
 ## Work Made for Hire
 
 ### Express Agreement to Make "Work Made for Hire"
 
-Subject to [State Employment Law Exception](#state-employment-law-exception), as far as the law allows, _Covered Intellectual Property_ will be "work made for hire" under copyright law.
+Subject to [State Employment Law Exception](#state-employment-law-exception), as far as the law allows, _Company Intellectual Property_ will be "work made for hire" under copyright law.
 
 ### State Employment Law Exception
 
@@ -163,7 +163,7 @@ Some states have laws that make workers who agree to make "work made for hire" i
 
 ### Assignment of Rights
 
-You assign all your rights in _Covered Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) to the company.
+You assign all your rights in _Company Intellectual Property_ that aren't covered by [Work Made for Hire](#work-made-for-hire) to the company.
 
 ### State Invention Assignment Exceptions
 
@@ -198,7 +198,7 @@ In legal terms of art, [What the Company Can Do](#what-the-company-can-do) appoi
 
 ### License Grant
 
-As far as the law allows, you give the company a license for all rights in _Covered Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.
+As far as the law allows, you give the company a license for all rights in _Company Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.
 
 ### State License Exceptions
 
@@ -228,7 +228,7 @@ You guarantee you will not infringe the _Intellectual Property Rights_ of others
 
 ## Open Licensing
 
-If the company provides policies on acceptable terms for open source, open data, open content, material dedicated to the public domain, or similar kinds of freely available work, you agree to follow those policies.  You guarantee that any freely available work that you include in or build on in _Covered Intellectual Property_ will conform to those policies.
+If the company provides policies on acceptable terms for open source, open data, open content, material dedicated to the public domain, or similar kinds of freely available work, you agree to follow those policies.  You guarantee that any freely available work that you include in or build on in _Company Intellectual Property_ will conform to those policies.
 
 ## Rights to License
 
