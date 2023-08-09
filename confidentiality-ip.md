@@ -236,7 +236,7 @@ Otherwise, you guarantee that you will not include or build on material covered 
 
 # Fairness
 
-- None of these terms are intended to stop you using general knowledge, skills, and experience gained during your work for the company to work elsewhere, or to even compete fairly with the company.
+- None of these terms are intended to stop you using general knowledge, skills, and experience gained during your work for the company to work elsewhere, or even to compete fairly with the company.
 
 - None of these terms are intended to stop you pursuing legal claims you may have against the company.
 
