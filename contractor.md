@@ -59,7 +59,7 @@ When this agreement ends, you will stop work and bill the company for work alrea
 
 ## Continuing Provisions
 
-These sections continue to apply after this agreement ends: [Work](#work), [Fees and Expenses](#fees-and-expenses), [Payment](#payment), [Working Relationship](#working-relationship), and [Limit on Liability](#limit-on-liability).
+These sections continue to apply after this agreement ends: [Fees and Expenses](#fees-and-expenses), [Payment](#payment), [Working Relationship](#working-relationship), [Confidentiality and Intellectual Property](#confidentiality-and-intellectual-property), [Disclaimer](#disclaimer), [Limit on Liability](#limit-on-liability), and [General Contract Terms](#general-contract-terms).
 
 # Working Relationship
 
