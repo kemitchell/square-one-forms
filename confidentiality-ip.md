@@ -228,7 +228,7 @@ You guarantee you will not infringe the _Intellectual Property Rights_ of others
 
 ## Open Licensing
 
-If the company provides policies on acceptable terms for open source, open data, open content, material dedicated to the public domain, or similar kinds of freely available work, you agree to follow those policies.  You guarantee that any freely available work that you include in or build on in _Company Intellectual Property_ will conform to those policies.
+If the company provides policies on acceptable terms for open source, open data, open content, material dedicated to the public domain, or similar kinds of freely available work, you agree to follow those policies.  You guarantee that you will only include freely available work in _Company Intellectual Property_ will that follows those policies.
 
 ## Rights to License
 
