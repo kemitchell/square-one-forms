@@ -91,6 +91,12 @@ After your work with the company ends:
 
 ## Defend Trade Secrets Act Notice
 
+### Purpose of Defend Trade Secrets Act Notice
+
+The purpose of [Defend Trade Secrets Act Notice](#defend-trade-secrets-act-notice) is to give you the notice required under United States Code title 18, section 1883(b)(3)(A), a part of the federal Defend Trade Secrets Act.
+
+### The Notice
+
 Per the Defend Trade Secrets Act of 2016:
 
 - An individual shall not be held criminally or civilly liable under any Federal or State trade secret law for the disclosure of a trade secret that:
