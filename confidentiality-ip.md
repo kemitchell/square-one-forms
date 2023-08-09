@@ -89,13 +89,13 @@ After your work with the company ends:
 
 - Your obligations for other _Confidential Information_ continue for five calendar years from the date your work with the company ended.
 
-## Defend Trade Secrets Act Notice
+## DTSA Notice
 
-### Purpose of Defend Trade Secrets Act Notice
+### Purpose of DTSA Notice
 
-The purpose of [Defend Trade Secrets Act Notice](#defend-trade-secrets-act-notice) is to give you the notice required under United States Code title 18, section 1883(b)(3)(A), a part of the federal Defend Trade Secrets Act.
+The purpose of [DTSA Notice](#dtsa-notice) is to give you the notice required under United States Code title 18, section 1883(b)(3)(A), a part of the federal Defend Trade Secrets Act.
 
-### The Notice
+### Immunity Under the DTSA
 
 Per the Defend Trade Secrets Act of 2016:
 
