@@ -202,7 +202,7 @@ As far as the law allows, you give the company a license for all rights in _Comp
 
 ### State License Exceptions
 
-If you work in a state with laws that limit the _Intellectual Property Rights_ that terms like these can license to the company, such as Utah title 34 chapter 39, the license does cover those _Intellectual Property Rights_.
+If you work in a state with laws that limit the _Intellectual Property Rights_ that terms like these can license to the company, such as Utah title 34 chapter 39, the license does not cover those _Intellectual Property Rights_.
 
 ### Scope of License
 
