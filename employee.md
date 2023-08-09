@@ -1,5 +1,5 @@
 ---
-title: Square One Standard Employee Terms
+title: Square One Employee Terms
 edition: Development Draft
 signatures: []
 blanks: {}
@@ -27,7 +27,7 @@ If your offer is for full-time employment, you agree to devote full working time
 
 # Confidentiality and Intellectual Property
 
-You agree to the Square One Standard Confidentiality and Intellectual Property Terms, TODO (https://squareoneforms.com/confidentiality-ip/TODO).
+You agree to the Square One Confidentiality and Intellectual Property Terms, TODO (https://squareoneforms.com/confidentiality-ip/TODO).
 
 # Policies
 
