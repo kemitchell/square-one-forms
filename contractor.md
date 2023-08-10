@@ -89,7 +89,7 @@ You will notify the company by e-mail of any other company that you anticipate w
 
 # Confidentiality and Intellectual Property
 
-You and the company agree to the Square One Confidentiality and Intellectual Property Terms, TODO (https://squareoneforms.com/confidentiality-ip/TODO).
+You and the company agree to the Square One Confidentiality and Intellectual Property Terms Version VERSION (https://squareoneforms.com/confidentiality-ip/VERSION).
 
 # Disclaimer
 
