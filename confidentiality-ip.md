@@ -1,6 +1,5 @@
 ---
 title: Square One Confidentiality and Intellectual Property Terms
-version: Development Draft
 signatures: []
 blanks: {}
 ---

@@ -1,6 +1,5 @@
 ---
 title: Square One Employee Terms
-version: Development Draft
 signatures: []
 blanks: {}
 ---
@@ -27,7 +26,7 @@ If your offer is for full-time employment, you agree to devote full working time
 
 # Confidentiality and Intellectual Property
 
-You agree to the Square One Confidentiality and Intellectual Property Terms, Version VERSION (https://squareoneforms.com/confidentiality-ip/VERSION).
+You agree to the Square One Confidentiality and Intellectual Property Terms, VERSION_STRING (https://squareoneforms.com/confidentiality-ip/VERSION_NUMBER).
 
 # Policies
 
