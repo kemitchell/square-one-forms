@@ -21,8 +21,8 @@ pdf: $(foreach basename,$(all_basenames:=.pdf),$(addprefix build/,$(basename)))
 
 html: $(foreach basename,$(common_form_basenames:=.html),$(addprefix build/,$(basename)))
 
-build/%.docx: %.docx | build
-	cp $< $@
+build/%.docx: %.html reference.docx | build
+	pandoc -o $@ --reference-doc reference.docx $<
 
 build/%.rtf: build/%.docx | build
 	soffice --headless --convert-to rtf --outdir build $<
