@@ -11,7 +11,8 @@ docx_basenames=offer-letter statement-of-work
 all_basenames=$(common_form_basenames) $(docx_basenames)
 forms=$(addprefix build/,$(addsuffix .json,$(common_form_basenames)))
 
-ifeq ($(origin VERSION),undefined)
+VERSION ?= Development Draft
+ifeq ($(VERSION),Development Draft)
 	VERSION_NUMBER=DRAFT
 	VERSION_STRING=Development Draft
 else
