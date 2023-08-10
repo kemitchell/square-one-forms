@@ -1,6 +1,6 @@
 ---
 title: Square One Employee Terms
-edition: Development Draft
+version: Development Draft
 signatures: []
 blanks: {}
 ---

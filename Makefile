@@ -27,17 +27,17 @@ build/%.docx: %.html reference.docx | build
 build/%.rtf: build/%.docx | build
 	soffice --headless --convert-to rtf --outdir build $<
 
-build/%.docx: build/%.json build/%.title build/%.edition build/%.directions build/%.blanks build/%.signatures styles.json | $(cfdocx) build
-	$(cfdocx) --title "$(shell cat build/$*.title)" --edition "$(shell cat build/$*.edition)" --number outline --left-align-title --smartify --indent-margins --styles styles.json --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures $< > $@
+build/%.docx: build/%.json build/%.title build/%.version build/%.directions build/%.blanks build/%.signatures styles.json | $(cfdocx) build
+	$(cfdocx) --title "$(shell cat build/$*.title)" --form-version "$(shell cat build/$*.version)" --number outline --left-align-title --smart --indent-margins --styles styles.json --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures $< > $@
 
-build/%.html: build/%.json build/%.title build/%.edition build/%.directions build/%.blanks build/%.signatures styles.json | $(cfdocx) build
-	$(cfhtml) --html5 --smartify --lists --ids --title "$(shell cat build/$*.title)" --edition "$(shell cat build/$*.edition)" --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures < $< > $@
+build/%.html: build/%.json build/%.title build/%.version build/%.directions build/%.blanks build/%.signatures styles.json | $(cfdocx) build
+	$(cfhtml) --html5 --smart --lists --ids --title "$(shell cat build/$*.title)" --form-version "$(shell cat build/$*.version)" --values build/$*.blanks --directions build/$*.directions --signatures build/$*.signatures < $< > $@
 
 build/%.title: build/%.parsed | $(json) build
 	$(json) frontMatter.title < $< > $@
 
-build/%.edition: build/%.parsed | $(json) build
-	$(json) frontMatter.edition < $< > $@
+build/%.version: build/%.parsed | $(json) build
+	$(json) frontMatter.version < $< > $@
 
 build/%.json: build/%.parsed | $(json) build
 	$(json) form < $< > $@

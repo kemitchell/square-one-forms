@@ -1,6 +1,6 @@
 ---
 title: Square One Contractor Terms
-edition: Development Draft
+version: Development Draft
 signatures: []
 blanks:
   payment deadline: fourteen calendar days
