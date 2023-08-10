@@ -4,7 +4,7 @@
     "commonform-commonmark": "^9.0.0",
     "commonform-critique": "^1.0.3",
     "commonform-docx": "^8.1.0",
-    "commonform-html": "^3.6.1",
+    "commonform-html": "^6.1.0",
     "commonform-lint": "^3.0.2",
     "json": "^11.0.0"
   }
