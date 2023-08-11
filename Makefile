@@ -17,7 +17,8 @@ ifeq ($(VERSION),Development Draft)
 	VERSION_STRING=Development Draft
 else
 	VERSION_NUMBER=$(VERSION)
-	VERSION_STRING=Version $(VERSION)
+	VERSION_STRING=Version $(VERSION)
+	# Note the non-breaking space in the line above.
 endif
 
 all: docx pdf html rtf
