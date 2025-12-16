@@ -197,7 +197,7 @@ In legal terms of art, [What the Company Can Do](#what-the-company-can-do) appoi
 
 ### License Grant
 
-As far as the law allows, you give the company a license for all rights in _Company Intellectual Property_ that aren't assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.
+As far as the law allows, you give the company a license for all rights in _Company Intellectual Property_ that aren't "work made for hire" under [Work Made for Hire](#work-made-for-hire) or assigned under [Assignment](#assignment), as well as any _Intellectual Property Rights_ of others that you use in work for the company.
 
 ### State License Exceptions
 
